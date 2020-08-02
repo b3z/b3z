@@ -5,7 +5,7 @@
 > Most time I spend on silly stuff you can find under my repos. Sometimes I do more useful stuff at [zeppel](https://github.com/zeppelsoftware) and if it gets really crazy I even contribute to some other projects.
 
 ### Some nice stats
- we love stats...
+man we do love stats...
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b3z&show_icons=false&count_private=true)
 
