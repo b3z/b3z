@@ -1,5 +1,4 @@
-# Cheers mate. Welcome to my profile. 
-
+# Cheers...
 > I am just a business informatics student from Kiel. 
 >
 > Most time I spend on silly stuff you can find in my repos. Sometimes I do more useful stuff at [zeppel](https://github.com/zeppelsoftware) and if it gets really crazy I even contribute to some other projects.
