@@ -9,7 +9,5 @@ You can find me on Discord as `b3z#0661`
 ### Some nice stats
 man we do love stats...
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b3z&show_icons=false&count_private=true)
-
-### Some languages I speak
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b3z&show_icons=false&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3z)](https://github.com/b3z/stats)
