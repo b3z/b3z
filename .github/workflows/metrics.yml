@@ -1,0 +1,14 @@
+name: metrics
+
+on:
+  schedule:
+    - cron: '0 1-23 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub metrics as SVG image
+        uses: lowlighter/metrics@latest
