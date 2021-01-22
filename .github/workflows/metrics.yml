@@ -13,6 +13,7 @@ jobs:
       - name: GitHub metrics as SVG image
         uses: lowlighter/metrics@latest
         with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}  
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
