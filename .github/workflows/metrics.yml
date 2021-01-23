@@ -20,6 +20,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_languages: yes
-          plugin_languages_colors: "0:#ff0000, 1:#008000, 2:#ffa500, 3:#0000ff, 4:#ffff00, 5:#4b0082, 6:#162221, 7:#ee82ee" 
+          plugin_languages_colors: "complementary"
           plugin_lines: yes
           config_timezone: Europe/Paris 
