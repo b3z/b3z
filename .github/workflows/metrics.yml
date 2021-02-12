@@ -1,25 +1,24 @@
-name: metrics
-
 on:
   schedule:
-    - cron: '0 1-23 * * *'
-
-  workflow_dispatch:
-
+    - cron: '0 */1 * * *' # every 12 hours
+  push:
+    branches:
+      - master
 jobs:
-  update:
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - name: GitHub metrics as SVG image
-        uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.SECRET }}  
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          plugin_languages: yes
-          plugin_languages_colors: "complementary"
-          plugin_lines: yes
-          config_timezone: Europe/Paris 
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@master
+      with:
+        token: ${{ secrets.SECRET }}
+    - name: Update README.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git add .
+        git commit -m "Update README"
+        git push
+        fi
