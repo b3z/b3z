@@ -1,3 +1,1 @@
-I joined GitHub **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+**{{ ACCOUNT_AGE }}** years, **{{ COMMITS }}** commits, **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs, **{{ STARS }}** stars, **{{ REPOSITORIES }}** personal projects, **{{ REPOSITORIES_CONTRIBUTED_TO }}** repos contributed to.
