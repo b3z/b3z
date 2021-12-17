@@ -1,5 +1,5 @@
-**2** years, **1553** commits, **101** issues, **70** PRs, **107** stars, **20** personal projects, **25** repos contributed to.
+**2** years, **1554** commits, **101** issues, **70** PRs, **107** stars, **20** personal projects, **25** repos contributed to.
 
 About AOC 
 
-![](https://img.shields.io/badge/stars%20⭐-6-yellow) ![](https://img.shields.io/badge/day%20📅-17-blue) ![](https://img.shields.io/badge/days%20completed-3-red)
+![](https://img.shields.io/badge/stars%20⭐-12-yellow) ![](https://img.shields.io/badge/day%20📅-6-blue) ![](https://img.shields.io/badge/days%20completed-6-red)
