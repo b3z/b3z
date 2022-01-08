@@ -1,4 +1,4 @@
-**2** years, **1597** commits, **102** issues, **72** PRs, **111** stars, **20** personal projects, **25** repos contributed to.
+**2** years, **1597** commits, **102** issues, **72** PRs, **111** stars, **20** personal projects, **24** repos contributed to.
 
 About AOC 
 
